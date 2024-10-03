@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCAkvLNq9D1JU9zeJsGp3lJXStRoJ-4dWw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>114235996850</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.looksky.firebase</string>
+	<key>PROJECT_ID</key>
+	<string>looksky-1ae5f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>looksky-1ae5f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:114235996850:ios:151a0f28e03a59c889e7ab</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114235996850",
+    "project_id": "looksky-1ae5f",
+    "storage_bucket": "looksky-1ae5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114235996850:android:a78a25a2ca6f8b7189e7ab",
+        "android_client_info": {
+          "package_name": "om.looksky.firebaseApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALqOiuRibWzsBcJ4sOoiLcuOdy5CewQAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
